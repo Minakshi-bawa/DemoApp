@@ -1,0 +1,91 @@
+[
+  {
+		"id": "1",
+		"ques": "Grand Central Terminal, Park Avenue, New York is the world's",
+		"answersId": "3",
+        "mark" : 1,
+        "isAnswered" : false,
+      "options" : [{"id":"1","title":"highest railway station"},{"id":"2","title":"longest railway station"},{"id":"3","title":"largest railway station"},{"id":"4","title":"None of the above"}]
+	},
+
+{
+    "id": "2",
+    "ques": "Entomology is the science that studies",
+    "answersId": "3",
+    "mark" : 1,
+  "isAnswered" : false,
+    "options" : [{"id":"1","title":"The origin and history of technical and scientific terms"},{"id":"2","title":"Behavior of human beings"},{"id":"3","title":"Insects"},{"id":"4","title":"The formation of rocks"}]
+ },
+ 
+ {
+ "id": "3",
+ "ques": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+ "answersId": "1",
+ "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Africa"},{"id":"2","title":"Australia"},{"id":"3","title":"Europe"},{"id":"4","title":"Asia"}]
+ },
+ 
+ {
+ "id": "4",
+ "ques": "Garampani sanctuary is located at",
+ "answersId": "3",
+ "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Gangtok, Sikkim"},{"id":"2","title":"Kohima, Nagaland"},{"id":"3","title":"Diphu, Assam"},{"id":"4","title":"Junagarh, Gujarat"}]
+ },
+ 
+ {
+ "id": "5",
+ "ques": "For which of the following disciplines is Nobel Prize awarded?",
+ "answersId": "4",
+    "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Literature, Peace and Economics"},{"id":"2","title":"Physics and Chemistry"},{"id":"3","title":"Physiology or Medicine"},{"id":"4","title":"All of the above"}]
+ },
+ 
+ {
+ "id": "6",
+ "ques": "Hitler party which came into power in 1933 is known as",
+ "answersId": "4",
+     "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Ku-Klux-Klan"},{"id":"2","title":"Democratic Party"},{"id":"3","title":"Labour Party"},{"id":"4","title":"Nazi Party"}]
+ },
+ 
+ {
+ "id": "7",
+ "ques": "FFC stands for",
+ "answersId": "2",
+     "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Federation of Football Council"},{"id":"2","title":"Film Finance Corporation"},{"id":"3","title":"Foreign Finance Corporation"},{"id":"4","title":"None of the above"}]
+ },
+ 
+ {
+ "id": "8",
+ "ques": "Fastest shorthand writer was",
+ "answersId": "1",
+     "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Dr. G. D. Bist"},{"id":"2","title":"J.M. Tagore"},{"id":"3","title":"Khudada Khan"},{"id":"4","title":"J.R.D. Tata"}]
+ },
+ 
+ {
+ "id": "9",
+ "ques": "Epsom (England) is the place associated with",
+ "answersId": "2",
+ "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"Shooting"},{"id":"2","title":"Horse racing"},{"id":"3","title":"Polo"},{"id":"4","title":"Snooker"}]
+ },
+ 
+ {
+ "id": "10",
+ "ques": "First human heart transplant operation conducted by Dr. Christian Bernard on Louis Washkansky, was conducted in",
+ "answersId": "3",
+ "mark" : 1,
+  "isAnswered" : false,
+ "options" : [{"id":"1","title":"1958"},{"id":"2","title":"1922"},{"id":"3","title":"1967"},{"id":"4","title":"1968"}]
+ }
+]
