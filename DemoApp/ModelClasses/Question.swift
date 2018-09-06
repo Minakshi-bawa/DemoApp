@@ -10,7 +10,6 @@ import Foundation
 
 struct Question:Decodable
 {
-    // This should be questionText
     var ques:String
     var id:String
     var answersId:String

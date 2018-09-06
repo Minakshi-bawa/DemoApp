@@ -15,12 +15,8 @@ class DAHomeViewC: DABaseViewC
     //MARK: - View LifeCycle Methods -
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
-        
         btnStartTest.layer.cornerRadius = 10
         btnStartTest.layer.masksToBounds = true
-        
     }
     
     override func didReceiveMemoryWarning() {

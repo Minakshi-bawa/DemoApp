@@ -8,11 +8,8 @@
 
 import Foundation
 final class PersistencyManager {
-    // 1
     static let shared = PersistencyManager()
-    // Initializer
     private init() {
-        
     }
     
     func getQuestions() -> [Question]
@@ -21,16 +18,15 @@ final class PersistencyManager {
         let url = URL(fileURLWithPath: path ?? "")
         var questionData =  [Question]()
         let data = try! Data(contentsOf:url)
-                    do
-                    {
-                        let quesData = try JSONDecoder().decode([Question].self, from: data)
-                       questionData = quesData
-                    }
-                    catch let jsonErr {
-                        print("Error serializing json:", jsonErr.localizedDescription)
-                }
+        do
+        {
+            let quesData = try JSONDecoder().decode([Question].self, from: data)
+            questionData = quesData
+        }
+        catch let jsonErr {
+            print("Error serializing json:", jsonErr.localizedDescription)
+        }
         return questionData
-        
     }
     
 }

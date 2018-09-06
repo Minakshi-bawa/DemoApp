@@ -125,7 +125,6 @@ class DATestViewC: DABaseViewC {
     func configView()
     {
         // configure all view UI and initial setup
-        
         viewResume.isHidden = true
         arrQuestions = PersistencyManager.shared.getQuestions()
         if arrQuestions.count > index
